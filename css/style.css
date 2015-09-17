@@ -1,0 +1,18 @@
+            .container {
+                width:50%;
+                margin:0 auto;
+            }
+            .left {
+                float:left;
+                width:40%;
+            }
+            .right {
+                float:left;
+                width:40%;
+                margin-left:10%;
+            }
+            body {
+            background-color: linen;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #990000
+            }
