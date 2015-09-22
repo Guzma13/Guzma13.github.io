@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#535300;
+}
+.wrap {
+   width:80%;
+   margin:0 auto;
+   background-color:#990;
+}
+.sidebar {
+ float:right;
+ width:20%;           
+ margin-right:10%;
+ background-color:#990;
+ height: 50%;
+ font-family:Arial, Helvetica, sans-serif;
+}
+
+.content {
+	float:left;
+    width:60%;
+	margin-right:10%;
+	background-color:#693;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	background-color:#393;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.nav li {
+	display: inline;
+	
+}
